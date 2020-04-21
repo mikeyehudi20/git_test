@@ -1,1 +1,1 @@
-This is mikeyehudi's first gir project
+This is mikeyehudi's first git project
